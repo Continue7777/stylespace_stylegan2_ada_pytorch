@@ -1,7 +1,7 @@
 # stylespace_stylegan2_ada_pytorch
 
 实现方案：
-+ forawrd_hook改变style。
++ forawrd_hook改变style channel的值。
 + backward_hook计算雅可比矩阵获取梯度图。
 
 小结论：
